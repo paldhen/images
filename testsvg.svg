@@ -36,7 +36,8 @@
      inkscape:window-height="745"
      inkscape:window-x="-8"
      inkscape:window-y="-8"
-     inkscape:window-maximized="1" />
+     inkscape:window-maximized="1"
+     showguides="false" />
   <metadata
      id="metadata7">
     <rdf:RDF>
@@ -68,6 +69,6 @@
        height="162.52977"
        x="33.261902"
        y="38.464287"
-       inkscape:label="{&quot;attr&quot;:&quot;bar&quot;,&quot;max&quot;:100,&quot;min&quot;:0,&quot;tag&quot;:&quot;level&quot;}" />
+       inkscape:label="{&quot;attr&quot;:&quot;bar&quot;,&quot;max&quot;:100,&quot;min&quot;:0,&quot;tag&quot;:&quot;TAG1&quot;}" />
   </g>
 </svg>

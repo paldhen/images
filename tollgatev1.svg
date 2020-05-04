@@ -13,10 +13,10 @@
    onload="var src; if (document.documentURI) src = document.documentURI; else if (this.getSrc) src = this.getSrc(); else src = document.location.href + ''; try {parent.preload.load(src);}catch(e) {}"
    inkscape:version="0.48+devel "
    version="1.1"
-   id="svg2"
+   id="tollgatesvg"
    viewBox="0 0 1079.9999 720"
-   height="720"
-   width="1080"
+   height="360"
+   width="370"
    sodipodi:docname="tollgatev1.svg">
   <sodipodi:namedview
      id="base"
